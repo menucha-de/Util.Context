@@ -1,0 +1,9 @@
+Bundle-Name: Ha-VIS Util Context
+Bundle-SymbolicName: havis.util.context
+Bundle-Version: 2.3.0
+Implementation-Version: 2.3
+Bundle-ManifestVersion: 2
+Bundle-Vendor: HARTING IT_SD
+Bundle-Activator: havis.util.context.osgi.Activator
+Import-Package: 
+ org.osgi.framework;resolution:=optional
